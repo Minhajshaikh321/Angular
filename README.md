@@ -3,9 +3,9 @@
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.0.
 
 
-## Notes docs
-[Google Docs](https://docs.google.com/document/d/12jxn3YRh7cHz7oByC3XQOY-bO3yr-a__ONZw1vbynC8/edit?tab=t.0)
+## 📚 Documentation
 
+For detailed notes, commands, and flowchart, check the [Angular google Docs](https://docs.google.com/document/d/12jxn3YRh7cHz7oByC3XQOY-bO3yr-a__ONZw1vbynC8/edit?tab=t.0).
 
 
 ## Development server
